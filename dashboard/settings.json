@@ -1,0 +1,14 @@
+{
+    "website" : {
+      "support": "https://discord.gg/2T3tmses7g",
+      "domain": "https://ProjectBunny.zlimcheating.repl.co"
+    },
+    "config": {
+        "http": {
+          "port": 80
+        },
+        "callback": "https://ProjectBunny.Zlimcheating.repl.co/callback",
+        "clientID": "760407090367037450",
+        "secret": "REPLIT VARIABLE TO HIDE IT!!"
+    }
+  }
